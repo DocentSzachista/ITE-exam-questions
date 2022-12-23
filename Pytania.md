@@ -27,15 +27,15 @@ przeznaczenia na GPU. []
 
 ## Pytania kierunkowe 
 1. Paradygmaty programowania obiektowego. [x]
-2. Arytmetyka stało- i zmiennoprzecinkowa. 
+2. Arytmetyka stało- i zmiennoprzecinkowa.[x] 
 3. Normalizacja schematu bazy danych. [x]
-4. Model warstwowy TCP/IP.[]
+4. Model warstwowy TCP/IP.[x]
 5. Ocena złożoności algorytmów. [x]
 6. Język UML w projektowaniu
-oprogramowania. []
+oprogramowania. [x]
 7. Generowanie realistycznych obrazów scen
 3-D za pomocą metody śledzenia promieni. []
-8. Mechanizmy systemu operacyjnego []
+8. Mechanizmy systemu operacyjnego
 wspomagające synchronizację procesów.[]
 9. Programowalne scalone układy cyfrowe
 PLD, CPLD oraz FPGA.[]
