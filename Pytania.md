@@ -5,9 +5,9 @@
 3. [x] Najważniejsze funkcje realizowane przez silniki gier.
 4. [x] Zastosowanie metod inteligentnego przetwarzania danych w rozpoznawaniu obrazów.
 5. [ ] Techniki sztucznej inteligencji w modelowaniu sceny, renderingu i animacji.
-6. [ ] Standardy kompresji obrazów statycznych i sekwencji obrazów, różnice, zalety i wady.
-7. [ ] Podstawowe operacje i algorytmyprzetwarzania obrazów. Morfologiamatematyczna.
-8. [ ] Budowa i zasada działania akceleratora graficznego, przetwarzanie równoległe, przetwarzanie wielowątkowe.
+6. [x] Standardy kompresji obrazów statycznych i sekwencji obrazów, różnice, zalety i wady.
+7. [ ] Podstawowe operacje i algorytmy przetwarzania obrazów. Morfologia matematyczna.
+8. [x] Budowa i zasada działania akceleratora graficznego, przetwarzanie równoległe, przetwarzanie wielowątkowe.
 9. [ ] Idea programowania i obliczeń ogólnego przeznaczenia na GPU.
 10. [x] Tworzenie aplikacji w systemie Android.
 
