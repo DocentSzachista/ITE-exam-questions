@@ -4,9 +4,9 @@
 2. [x] Techniki tworzenia aplikacji typu Single Page Application. 
 3. [x] Najważniejsze funkcje realizowane przez silniki gier.
 4. [x] Zastosowanie metod inteligentnego przetwarzania danych w rozpoznawaniu obrazów.
-5. [ ] Techniki sztucznej inteligencji w modelowaniu sceny, renderingu i animacji.
+5. [x] Techniki sztucznej inteligencji w modelowaniu sceny, renderingu i animacji.
 6. [x] Standardy kompresji obrazów statycznych i sekwencji obrazów, różnice, zalety i wady.
-7. [ ] Podstawowe operacje i algorytmy przetwarzania obrazów. Morfologia matematyczna.
+7. [x] Podstawowe operacje i algorytmy przetwarzania obrazów. Morfologia matematyczna.
 8. [x] Budowa i zasada działania akceleratora graficznego, przetwarzanie równoległe, przetwarzanie wielowątkowe.
 9. [ ] Idea programowania i obliczeń ogólnego przeznaczenia na GPU.
 10. [x] Tworzenie aplikacji w systemie Android.
@@ -19,9 +19,9 @@
 5. [x] Ocena złożoności algorytmów.
 6. [x] Język UML w projektowaniu
 oprogramowania.
-7. [ ] Generowanie realistycznych obrazów scen
+7. [x] Generowanie realistycznych obrazów scen
 3-D za pomocą metody śledzenia promieni.
-8. [ ] Mechanizmy systemu operacyjnego
+8. [x] Mechanizmy systemu operacyjnego
 wspomagające synchronizację procesów.
 9. [ ] Programowalne scalone układy cyfrowe
 PLD, CPLD oraz FPGA.
