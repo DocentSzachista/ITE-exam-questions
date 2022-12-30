@@ -8,7 +8,7 @@
 6. [x] Standardy kompresji obrazów statycznych i sekwencji obrazów, różnice, zalety i wady.
 7. [x] Podstawowe operacje i algorytmy przetwarzania obrazów. Morfologia matematyczna.
 8. [x] Budowa i zasada działania akceleratora graficznego, przetwarzanie równoległe, przetwarzanie wielowątkowe.
-9. [ ] Idea programowania i obliczeń ogólnego przeznaczenia na GPU.
+9. [x] Idea programowania i obliczeń ogólnego przeznaczenia na GPU.
 10. [x] Tworzenie aplikacji w systemie Android.
 
 ## Pytania kierunkowe 
@@ -23,6 +23,6 @@ oprogramowania.
 3-D za pomocą metody śledzenia promieni.
 8. [x] Mechanizmy systemu operacyjnego
 wspomagające synchronizację procesów.
-9. [ ] Programowalne scalone układy cyfrowe
+9. [x] Programowalne scalone układy cyfrowe
 PLD, CPLD oraz FPGA.
 10. [x] Optyczne nośniki informacji.
