@@ -14,6 +14,5 @@ To repozytorium zawiera pytania i odpowiedzi na egzamin dyplomowy I stopnia info
 Na ten moment zawiera jedynie odpowiedzi na pytania kierunkowe oraz specjalności "grafika i systemy multimedialne" (IGM). Pytania na które odpowiedziano zostały wymienione [tutaj](https://github.com/DocentSzachista/ITE-exam-questions/blob/master/Pytania.md). 
 
 # Notes
-## Słowo od autora
 Zebrane tutaj odpowiedzi są wersją zmodyfikowaną pozostawioną przez starsze roczniki tego kierunku. 
 Moje modyfikacje wynikły na podstawie konsultacji z prowadzącymi, którzy utworzyli te pytania. Na podstawie tych notatek udało mi się zdać egzamin dyplomowy na 5.0 ;) 
