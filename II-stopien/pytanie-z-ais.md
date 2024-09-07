@@ -1,1 +1,0 @@
-Gadać o raytracingu najlepiej, fizyce zderzeń (by datko - Twórce pytania )
